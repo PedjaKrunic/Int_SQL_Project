@@ -90,5 +90,7 @@ Image
 
 ## Technical Details
 **Database**: PostgreSQL
-**Analysis Tools**: PostgreSQL
+
+**Analysis Tools**: PostgreSQL, DBeaver, PgAdmin4
+
 **Visualization**: ChatGPT
