@@ -18,7 +18,7 @@ Analysis of customer behavior, retention and lifetime value for an e-commerce co
 Query: [1_customer_segments.sql](/1_customer_segments.sql)
 
 **Visualiazation**
-Image
+![Revenue Contribution by Customer Segment](/images/1_Revenue_Contribution_by_Customer_Segment.png)
 
 **Key FIndings**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -38,7 +38,8 @@ Image
 Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **Visualiazation**
-Image
+![First-Day Revenue per Customer by Cohort Year](/images/2_first_day_revenue_per_customer_by_cohort.png)
+
 
 **Key FIndings**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -58,13 +59,12 @@ Image
 Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 **Visualiazation**
-Image
+![Customer Churn Rate by Cohort Year](/images/3_customer_churn_rate_by_cohort.png)
 
 **Key Findings**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
 - Retention rates are consistently low (8-10%) across all cohorts, suggesting retention issues are systemic rather than specific to certain years.
 - Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow the same pattern.
-
 
 **Business Insights**
 - Strengthen early engagement strategies to target the first 1-2 years with onboarding incentives, loyalty rewards and personalized offers to improve long-term retention.
