@@ -31,7 +31,7 @@ Query: [1_customer_segments.sql](/1_customer_segments.sql)
 
 **Visualiazation**
 
-<img src="./images/1_Revenue_Contribution_by_Customer_Segment.png" width="50%" alt="Revenue Contribution by Customer Segment">
+<img src="./images/1_Revenue_Contribution_by_Customer_Segment.png" width="75%" alt="Revenue Contribution by Customer Segment">
 
 **Key Findings**
 - High-value segment (25% of customers) generate approximately 66% of revenue ($135.4M)
