@@ -52,7 +52,7 @@ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **Visualiazation**
 
-<img src="./images/2_first_day_revenue_per_customer_by_cohort.png" width="50%" alt="First-Day Revenue per Customer by Cohort Year">
+<img src="./images/2_first_day_revenue_per_customer_by_cohort.png" width="75%" alt="First-Day Revenue per Customer by Cohort Year">
 
 
 **Key Findings**
@@ -79,7 +79,7 @@ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 **Visualiazation - Churn by Cohort**
 
-<img src="./images/3_customer_churn_rate_by_cohort.png" width="50%" alt="Customer Churn Rate by Cohort Year">
+<img src="./images/3_customer_churn_rate_by_cohort.png" width="75%" alt="Customer Churn Rate by Cohort Year">
 
 **Key Findings**
 - Approximately 90% of eligible customers in each cohort are classified as Churned.
